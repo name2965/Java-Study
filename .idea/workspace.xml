@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d182d114-e671-4120-94d8-9f88064fe9fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideByZeroHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumException.java" afterDir="false" />
+    <list default="true" id="d182d114-e671-4120-94d8-9f88064fe9fc" name="Changes" comment="자바 공부 1일차(예외처리까지 공부)">
+      <change afterPath="$PROJECT_DIR$/src/ArrayPassingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticMember.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2LWDZGQvGiXEXCvpEYgsNk27yBt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,37 +50,36 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumException">
-    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayException" />
+  <component name="RunManager" selected="Application.StaticMember">
+    <configuration name="ArrayPassingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayPassingEx" />
       <module name="Java Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideByZeroHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideByZeroHandling" />
+    <configuration name="BookArray (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookArray" />
       <module name="Java Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InputException" />
+    <configuration name="CalcEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcEx" />
       <module name="Java Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java Study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumException" />
+    <configuration name="StaticMember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticMember" />
       <module name="Java Study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumException" />
-        <item itemvalue="Application.InputException" />
-        <item itemvalue="Application.DivideByZeroHandling" />
-        <item itemvalue="Application.ArrayException" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StaticMember" />
+        <item itemvalue="Application.CalcEx" />
+        <item itemvalue="Application.BookArray" />
+        <item itemvalue="Application.BookArray (1)" />
+        <item itemvalue="Application.ArrayPassingEx" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675977999062</updated>
     </task>
+    <task id="LOCAL-00001" summary="자바 공부 1일차(예외처리까지 공부)">
+      <created>1676038869152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676038869152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자바 공부 1일차(예외처리까지 공부)" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 공부 1일차(예외처리까지 공부)" />
   </component>
 </project>

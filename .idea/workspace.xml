@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d182d114-e671-4120-94d8-9f88064fe9fc" name="Changes" comment="자바 공부 3일차(상속 공부)&#10;&#10;업,다운캐스팅과 instanceof 까지 공부함">
-      <change afterPath="$PROJECT_DIR$/src/GoodCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverridingEx.java" afterDir="false" />
+    <list default="true" id="d182d114-e671-4120-94d8-9f88064fe9fc" name="Changes" comment="자바 공부 4일차(계속해서 상속 공부중)&#10;&#10;추상클래스 이해하는중">
+      <change afterPath="$PROJECT_DIR$/src/InterfaceEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InstanceOfEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstanceOfEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GoodCalc">
+  <component name="RunManager" selected="Application.InterfaceEx">
     <configuration name="GoodCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoodCalc" />
       <module name="Java Study" />
@@ -52,8 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceOfEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InstanceOfEx" />
+    <configuration name="InterfaceEx (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceEx" />
+      <module name="Java Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceEx" />
       <module name="Java Study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SuperEx" />
-      <module name="Java Study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceEx" />
+        <item itemvalue="Application.InterfaceEx (1)" />
         <item itemvalue="Application.GoodCalc" />
         <item itemvalue="Application.MethodOverridingEx (1)" />
         <item itemvalue="Application.MethodOverridingEx" />
-        <item itemvalue="Application.InstanceOfEx" />
-        <item itemvalue="Application.SuperEx" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678025219040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자바 공부 4일차(계속해서 상속 공부중)&#10;&#10;추상클래스 이해하는중">
+      <created>1678114303252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678114303252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +143,7 @@
     <MESSAGE value="자바 공부 1일차(예외처리까지 공부)" />
     <MESSAGE value="자바 공부 2일차(클래스,객체 공부)&#10;&#10;내일은 객체지향개념 복기후 상속개념 공부" />
     <MESSAGE value="자바 공부 3일차(상속 공부)&#10;&#10;업,다운캐스팅과 instanceof 까지 공부함" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바 공부 3일차(상속 공부)&#10;&#10;업,다운캐스팅과 instanceof 까지 공부함" />
+    <MESSAGE value="자바 공부 4일차(계속해서 상속 공부중)&#10;&#10;추상클래스 이해하는중" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 공부 4일차(계속해서 상속 공부중)&#10;&#10;추상클래스 이해하는중" />
   </component>
 </project>
